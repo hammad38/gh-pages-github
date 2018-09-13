@@ -4,8 +4,9 @@ LiveSite Url: https://hammad38.github.io/gh-pages-github/
 
 ## Configuration
 
-npm i gh-pages
+1. npm i gh-pages
 
+2. Edit package.json file
 ```
 
 "scripts": {
@@ -14,4 +15,4 @@ npm i gh-pages
 "homepage": "https://[github_username].github.io/[repository_name]",
 
 ```
-npm run deploy
+3. npm run deploy
